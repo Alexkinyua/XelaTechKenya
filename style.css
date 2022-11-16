@@ -46,6 +46,7 @@
             .navbar .logo a span {
                 color: darkorange;
                 transition: all 0.3s ease;
+                font-size: 20px
             }
             
             .navbar.sticky .logo a span {
